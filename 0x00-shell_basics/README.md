@@ -1,1 +1,1 @@
-print workoing directory
+print working directory
