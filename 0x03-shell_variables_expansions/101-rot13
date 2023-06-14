@@ -1,2 +1,2 @@
 #!/bin/bash
-print(rot13(s))
+tr 'A-Za-z' 'N-ZA-Mn-za-m'
